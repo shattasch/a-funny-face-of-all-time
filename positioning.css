@@ -1,0 +1,33 @@
+body {
+    margin:50px;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+#div1 {
+    background: rgb(190, 182, 182);
+    color: rgb(5, 5, 5); 
+    padding: 200px;
+    position: relative;
+}
+
+#div2 {
+    background: rgb(119, 116, 116);
+    padding: 50px;
+    width: 300px;
+    position: absolute;
+    right: 10px;
+    bottom: -30px;
+
+}
+
+#div3 {
+    background: #ccc;
+    padding: 50px; 
+    width: 150px;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
